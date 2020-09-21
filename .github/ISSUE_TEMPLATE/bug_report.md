@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create an issue
+about: Report an issue with existing functionality
 title: ''
 labels: bug
 assignees: OvilleTown
